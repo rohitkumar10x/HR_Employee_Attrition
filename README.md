@@ -51,7 +51,7 @@ This project proposes a data-driven solution to combat attrition. By analyzing r
 
 Below is an interactive Power BI dashboard showcasing the key insights from the HR Employee Attrition Analysis:
 
-![HR Employee Attrition Dashboard](https://github.com/rohitkumar10x/HR_Employee_Attrition/blob/main/HR%20Employee%20Analysis%20(Dashbaord ).jpg?raw=true)
+![HR Employee Attrition Dashboard](https://github.com/rohitkumar10x/HR_Employee_Attrition/blob/main/HR%20Employee%20Analysis%20(Dashbaord).jpg?raw=true)
 
 ---
 
